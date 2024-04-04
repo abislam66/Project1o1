@@ -2,9 +2,7 @@
 
 ## What will (likely) be the title of your project?
 
-<<<<<<< HEAD
-TODO
-
+Shooting masterr
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
 TODO
